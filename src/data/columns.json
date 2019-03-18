@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "backlog",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Logging",
+        "description": "Add Logging",
+        "bgColor": "yellow"
+      },
+      {
+        "id": 2,
+        "name": "Update Insert",
+        "description": "Update insert product",
+        "bgColor": "pink"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "in progress",
+    "tasks": [
+      {
+        "id": 3,
+        "name": "Readme",
+        "description": "update readme",
+        "bgColor": "lightgreen"
+      },
+      {
+        "id": 4,
+        "name": "Login",
+        "description": "restyle login page",
+        "bgColor": "skyblue"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "dev done",
+    "tasks": []
+  },
+  {
+    "id": 4,
+    "category": "in test",
+    "tasks": []
+  },
+  {
+    "id": 5,
+    "category": "done",
+    "tasks": []
+  }]

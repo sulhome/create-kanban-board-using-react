@@ -1,0 +1,8 @@
+.column {
+    min-height: 300px;
+    border: 2px solid #ccc;
+}
+
+.column .title {
+    border-bottom: 2px solid orangered;
+}
